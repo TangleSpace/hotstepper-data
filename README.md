@@ -2,6 +2,8 @@
 
 Data repository for <a href="https://github.com/TangleSpace/hotstepper">hotstepper</a> examples.
 
-The repository is inspired by the great samples provided at <a href="https://github.com/mwaskom/">seaborn-data</a>
+The repository is inspired by the great samples provided at <a href="https://github.com/mwaskom/seaborn-data">seaborn-data</a>
+
+<p align="center"><img src="https://github.com/TangleSpace/hotstepper/blob/master/docs/images/currency.gif" title="Forex" alt="Forex",width="50%" height="50%"></p>
 
 
