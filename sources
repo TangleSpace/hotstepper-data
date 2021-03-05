@@ -16,8 +16,8 @@ vessel movements.csv
 vessel movements_grouped.csv
 vessel movements_total.csv
 vessel_queue.csv
-/forex/AUDUSD_H1.csv
-/forex/EURGBP_H1.csv
-/forex/EURUSD_H1.csv
-/forex/GBPAUD_H1.csv
-/forex/GBPUSD_H1.csv
+forex/AUDUSD_H1.csv
+forex/EURGBP_H1.csv
+forex/EURUSD_H1.csv
+forex/GBPAUD_H1.csv
+forex/GBPUSD_H1.csv
