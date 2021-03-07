@@ -4,7 +4,19 @@ Data repository for <a href="https://github.com/TangleSpace/hotstepper">hotstepp
 <br>
 I'd like to thank the Staircase package owner for currating some of these datasets, thanks Riley!
 
-[![Downloads](https://static.pepy.tech/personalized-badge/hotstepper?period=month&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/hotstepper)
+<p align="center">
+	<a href="https://pepy.tech/project/hotstepper/" alt="PyPI downloads">
+        <img src="https://static.pepy.tech/personalized-badge/hotstepper?period=month&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads" /></a>
+    <a href="https://www.python.org/" alt="Python version">
+        <img src="https://img.shields.io/pypi/pyversions/hotstepper" /></a>
+    <a href="https://pypi.org/project/hotstepper/" alt="PyPI version">
+        <img src="https://img.shields.io/pypi/v/hotstepper" /></a>
+    <a href="https://hotstepper.mit-license.org/" alt="License">
+        <img src="http://img.shields.io/:license-mit-blue.svg?style=flat-square"></a>
+    <a href='https://hotstepper.readthedocs.io/?badge=latest'>
+        <img src='https://readthedocs.org/projects/hotstepper/badge/?version=latest' alt='Documentation Status' />
+    </a>
+</p>
 
 The repository is inspired by the great samples provided at <a href="https://github.com/mwaskom/seaborn-data">seaborn-data</a>
 
