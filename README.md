@@ -4,7 +4,7 @@ Data repository for <a href="https://github.com/TangleSpace/hotstepper">hotstepp
 <br>
 I'd like to thank the Staircase package owner for currating some of these datasets, thanks Riley!
 
-[![Downloads](https://pepy.tech/badge/hotstepper)](https://pepy.tech/project/hotstepper)
+[![Downloads](https://static.pepy.tech/personalized-badge/hotstepper?period=month&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/hotstepper)
 
 The repository is inspired by the great samples provided at <a href="https://github.com/mwaskom/seaborn-data">seaborn-data</a>
 
