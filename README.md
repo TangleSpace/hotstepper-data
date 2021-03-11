@@ -6,7 +6,7 @@ I'd like to thank the Staircase package owner for currating some of these datase
 
 <p align="center">
 	<a href="https://pepy.tech/project/hotstepper/" alt="PyPI downloads">
-        <img src="https://static.pepy.tech/personalized-badge/hotstepper?period=month&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads" /></a>
+        <img src="https://static.pepy.tech/personalized-badge/hotstepper?period=total&units=none&left_color=black&right_color=brightgreen&left_text=Downloads" /></a>
     <a href="https://www.python.org/" alt="Python version">
         <img src="https://img.shields.io/pypi/pyversions/hotstepper" /></a>
     <a href="https://pypi.org/project/hotstepper/" alt="PyPI version">
